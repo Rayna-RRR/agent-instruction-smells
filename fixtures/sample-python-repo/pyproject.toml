@@ -1,0 +1,12 @@
+[project]
+name = "sample-python-repo"
+version = "0.1.0"
+description = "Synthetic fixture for reviewing agent instruction files."
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.ruff]
+line-length = 88
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
