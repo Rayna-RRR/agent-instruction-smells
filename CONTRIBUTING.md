@@ -4,7 +4,7 @@ This repository is a smell catalog, not a tool. Contributions should improve the
 
 ## Contribution Rules
 
-- Write in English.
+- English is preferred for smell cases so the corpus stays easy to reuse across the broader GitHub community.
 - Use synthetic or heavily anonymized examples only.
 - Do not paste real repository instructions, private policy text, client guidance, or internal tool docs without permission.
 - Keep the tone practical and direct.
@@ -12,6 +12,14 @@ This repository is a smell catalog, not a tool. Contributions should improve the
 - Keep examples readable without setup, dependencies, or generated assets.
 - Do not add package dependencies.
 - Do not add a CLI.
+
+## Language
+
+The main smell corpus is maintained primarily in English for portability across the GitHub and coding-agent ecosystem.
+
+Chinese documentation, issues, examples, and workflow observations are welcome. We may add more Chinese-facing examples and contributor guidance in future updates.
+
+If you are unsure how to format a contribution, open an issue first. Chinese is okay for early discussion.
 
 ## New Smell Template
 
