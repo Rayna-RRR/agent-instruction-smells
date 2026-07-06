@@ -1,5 +1,7 @@
 # agent-instruction-smells
 
+Languages: English | [简体中文](README.zh-CN.md)
+
 Copyable bad-and-fixed examples for `AGENTS.md`, `CLAUDE.md`, `SKILL.md`, Cursor rules, and other coding-agent instruction files.
 
 Most agent instructions fail in predictable ways: stale commands, copied tool docs, broad skill triggers, contradictory rules, context bloat, and unsafe shortcuts. This repo is a reusable smell catalog, not a linter, scanner, CLI, or generator.
